@@ -1,0 +1,9 @@
+{
+  "mom_service_baseurl": "https://ae-mom-and-kid-service-4qdv7xiaca-el.a.run.app",
+  "community_service_baseurl": "https://ae-community-service-4qdv7xiaca-el.a.run.app",
+  "auth_baseurl" : "https://ae-auth-service-4qdv7xiaca-el.a.run.app",
+  "axios_default_timeout": 15000,
+  "network_error_message": "Connect to a Network. Then retry",
+  "domainUriPrefix":"https://adwaita.page.link",
+  "webClientId": "927216496834-sfmrhdj19d6e2v9l4h33shmtl2esmb43.apps.googleusercontent.com"
+}
