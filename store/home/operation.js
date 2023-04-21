@@ -1,0 +1,1 @@
+export {homeSliderfetch} from "./slice"
